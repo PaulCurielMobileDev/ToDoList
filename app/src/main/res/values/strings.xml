@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="error_empty_line">You need to write a new task</string>
+</resources>
